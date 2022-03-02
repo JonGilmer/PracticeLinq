@@ -1,0 +1,15 @@
+/Users/JonathanGilmer/Desktop/Repos/PracticeLinq/PracticeLinq/bin/Debug/net5.0/PracticeLinq.deps.json
+/Users/JonathanGilmer/Desktop/Repos/PracticeLinq/PracticeLinq/bin/Debug/net5.0/PracticeLinq.runtimeconfig.json
+/Users/JonathanGilmer/Desktop/Repos/PracticeLinq/PracticeLinq/bin/Debug/net5.0/PracticeLinq.runtimeconfig.dev.json
+/Users/JonathanGilmer/Desktop/Repos/PracticeLinq/PracticeLinq/bin/Debug/net5.0/PracticeLinq.dll
+/Users/JonathanGilmer/Desktop/Repos/PracticeLinq/PracticeLinq/bin/Debug/net5.0/ref/PracticeLinq.dll
+/Users/JonathanGilmer/Desktop/Repos/PracticeLinq/PracticeLinq/bin/Debug/net5.0/PracticeLinq.pdb
+/Users/JonathanGilmer/Desktop/Repos/PracticeLinq/PracticeLinq/obj/Debug/net5.0/PracticeLinq.csproj.AssemblyReference.cache
+/Users/JonathanGilmer/Desktop/Repos/PracticeLinq/PracticeLinq/obj/Debug/net5.0/PracticeLinq.GeneratedMSBuildEditorConfig.editorconfig
+/Users/JonathanGilmer/Desktop/Repos/PracticeLinq/PracticeLinq/obj/Debug/net5.0/PracticeLinq.AssemblyInfoInputs.cache
+/Users/JonathanGilmer/Desktop/Repos/PracticeLinq/PracticeLinq/obj/Debug/net5.0/PracticeLinq.AssemblyInfo.cs
+/Users/JonathanGilmer/Desktop/Repos/PracticeLinq/PracticeLinq/obj/Debug/net5.0/PracticeLinq.csproj.CoreCompileInputs.cache
+/Users/JonathanGilmer/Desktop/Repos/PracticeLinq/PracticeLinq/obj/Debug/net5.0/PracticeLinq.dll
+/Users/JonathanGilmer/Desktop/Repos/PracticeLinq/PracticeLinq/obj/Debug/net5.0/ref/PracticeLinq.dll
+/Users/JonathanGilmer/Desktop/Repos/PracticeLinq/PracticeLinq/obj/Debug/net5.0/PracticeLinq.pdb
+/Users/JonathanGilmer/Desktop/Repos/PracticeLinq/PracticeLinq/obj/Debug/net5.0/PracticeLinq.genruntimeconfig.cache
